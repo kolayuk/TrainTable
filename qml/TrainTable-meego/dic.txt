@@ -1,0 +1,16 @@
+Head - Идите на
+east - восток
+north - север
+south - юг
+west - запад
+on  - по 
+toward - в сторону
+Turn - Поверните
+onto - на
+right - направо
+left - налево
+turns - поворачивает
+and becomes - и переходит в
+Continue straight - Продолжайте движение
+Continue - Продолжайте идти
+Destination will be on the - Станция будет

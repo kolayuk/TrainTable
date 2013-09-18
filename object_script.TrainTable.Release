@@ -1,0 +1,13 @@
+INPUT(
+./release/main.o
+./release/application.o
+./release/stationgetter.o
+./release/timetable.o
+./release/map.o
+./release/qmlapplicationviewer.o
+./release/moc_application.o
+./release/moc_stationgetter.o
+./release/moc_timetable.o
+./release/moc_map.o
+./release/moc_qmlapplicationviewer.o
+);

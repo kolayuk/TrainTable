@@ -1,0 +1,5 @@
+promo/ActiveJack.jpg:::ActiveJack:::Надоело включать плеер при подключении наушников? Установи АctiveJack, он сделает это за тебя.:::http://store.ovi.com/content/98029***
+promo/quickLaunch.jpg:::quickLaunch:::Установи удобную панель для запуска приложений!:::http://store.ovi.com/content/116079***
+promo/filMark.jpg:::filMark:::Хватит запоминать место, где закончил смотреть фильм, пусть смартфон запонимает его!:::http://store.ovi.com/content/168471***
+promo/smartEQ.jpg:::smartEQ:::Надоело плоское звучание плеера? Установи эквалайзер в свой смартфон!:::http://store.ovi.com/content/148241***
+promo/quickFM.jpg:::quickFM:::Включай FM-передатчик одним нажатием!:::http://store.ovi.com/content/148239***

@@ -1,0 +1,5 @@
+promo/ActiveJack.png:::ActiveJack:::вкл гарнитуру:::http://store.ovi.com/content/98029***
+promo/quickLaunch.png:::quickLaunch:::Установи удобную панель для запуска приложений:::http://store.ovi.com/content/116079***
+promo/filMark.png:::filMark:::Хватит запоминать место, где закончил смотреть фильм!:::http://store.ovi.com/content/168471***
+promo/smeq.png:::smartEQ:::Эквалайзер для твоего смартфона::http://store.ovi.com/content/148241***
+promo/quickFM.png:::quickFM:::Включай FM-передатчик одним нажатием::http://store.ovi.com/content/148239***
